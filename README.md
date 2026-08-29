@@ -20,7 +20,5 @@ Student @ RTU MIREA.
 </p>
 
 <p align="center">
-  <a href="https://github.com/threefours/yandex-music-plus-tweak">Yandex Music Plus Hack</a>
-  |
   <a href="https://github.com/threefours/FilzaSlop">Filza with Sandbox Escape and WebDAV</a>
 </p>
